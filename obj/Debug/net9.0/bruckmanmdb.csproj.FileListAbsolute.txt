@@ -1,0 +1,14 @@
+/Users/diegoaguayorivera/Desktop/bruckmanmdb/bin/Debug/net9.0/bruckmanmdb
+/Users/diegoaguayorivera/Desktop/bruckmanmdb/bin/Debug/net9.0/bruckmanmdb.deps.json
+/Users/diegoaguayorivera/Desktop/bruckmanmdb/bin/Debug/net9.0/bruckmanmdb.runtimeconfig.json
+/Users/diegoaguayorivera/Desktop/bruckmanmdb/bin/Debug/net9.0/bruckmanmdb.dll
+/Users/diegoaguayorivera/Desktop/bruckmanmdb/bin/Debug/net9.0/bruckmanmdb.pdb
+/Users/diegoaguayorivera/Desktop/bruckmanmdb/obj/Debug/net9.0/bruckmanmdb.GeneratedMSBuildEditorConfig.editorconfig
+/Users/diegoaguayorivera/Desktop/bruckmanmdb/obj/Debug/net9.0/bruckmanmdb.AssemblyInfoInputs.cache
+/Users/diegoaguayorivera/Desktop/bruckmanmdb/obj/Debug/net9.0/bruckmanmdb.AssemblyInfo.cs
+/Users/diegoaguayorivera/Desktop/bruckmanmdb/obj/Debug/net9.0/bruckmanmdb.csproj.CoreCompileInputs.cache
+/Users/diegoaguayorivera/Desktop/bruckmanmdb/obj/Debug/net9.0/bruckmanmdb.dll
+/Users/diegoaguayorivera/Desktop/bruckmanmdb/obj/Debug/net9.0/refint/bruckmanmdb.dll
+/Users/diegoaguayorivera/Desktop/bruckmanmdb/obj/Debug/net9.0/bruckmanmdb.pdb
+/Users/diegoaguayorivera/Desktop/bruckmanmdb/obj/Debug/net9.0/bruckmanmdb.genruntimeconfig.cache
+/Users/diegoaguayorivera/Desktop/bruckmanmdb/obj/Debug/net9.0/ref/bruckmanmdb.dll
